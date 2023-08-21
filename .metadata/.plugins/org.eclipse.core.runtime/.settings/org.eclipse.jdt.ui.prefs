@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.apache.camel.CamelContextLifecycle"><rhs name\="org.apache.camel.impl.DefaultCamelContext"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="org.apache.camel.impl.DefaultCamelContext"/></lhs><lhs name\="org.apache.camel.RuntimeConfiguration"><rhs name\="org.apache.camel.impl.DefaultCamelContext"/></lhs><lhs name\="org.apache.camel.CamelContext"><rhs name\="org.apache.camel.impl.DefaultCamelContext"/></lhs><lhs name\="org.apache.camel.RoutesBuilder"><rhs name\="com.example.camel.HelloWorldRoute"/><rhs name\="com.example.camel.FileTrasferRoute"/></lhs><lhs name\="org.apache.camel.SuspendableService"><rhs name\="org.apache.camel.impl.DefaultCamelContext"/></lhs><lhs name\="org.apache.camel.Service"><rhs name\="org.apache.camel.impl.DefaultCamelContext"/></lhs><lhs name\="javax.jms.ConnectionFactory"><rhs name\="org.apache.activemq.ActiveMQConnectionFactory"/></lhs><lhs name\="org.apache.camel.CamelContextAware"><rhs name\="org.apache.camel.component.jms.JmsComponent"/></lhs><lhs name\="org.apache.camel.Component"><rhs name\="org.apache.camel.component.jms.JmsComponent"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

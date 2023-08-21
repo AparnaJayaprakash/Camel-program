@@ -1,0 +1,17 @@
+package com.example.camel;
+
+import org.apache.camel.builder.RouteBuilder;
+
+public class FileTrasferRoute extends RouteBuilder{
+
+	@Override
+	public void configure() throws Exception {
+		
+		from("file:C:/Users/jayap/OneDrive/Desktop/Input")
+		.log(">>>>>> Header: ${header}")
+		.log(">>>>>> Body: ${body}")
+		.to("file:C:/Users/jayap/OneDrive/Desktop/Output");
+		
+	}
+
+}
